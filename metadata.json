@@ -1,0 +1,6 @@
+{
+  "name": "10,000 MINI GAMES – 2 PLAYER",
+  "description": "Koleksi permainan mini retro arcade 1 Player & 2 Player dalam satu telefon, lengkap dengan skor kemenangan, carian kategori, dan sokongan offline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
